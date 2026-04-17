@@ -24,11 +24,26 @@ Tech Stack
 	•	NumPy
 	•	Pandas
 	•	Matplotlib
+	
+Workflow
+   1. Data Collection  
+   2. Data Preprocessing  
+   3. Feature Scaling  
+   4. Time-Series Sequence Creation  
+   5. LSTM Model Training  
+   6. Prediction & Evaluation
 
 Results
 	•	Successfully captured traffic trends over time
 	•	Model demonstrates strong capability in time-series forecasting
 	•	Useful for real-world telecom applications
+
+Real-World Use Case
+
+- Helps telecom providers predict network congestion  
+- Enables proactive traffic management  
+- Improves Quality of Service (QoS)  
+- Supports efficient resource allocation in 5G networks  
 
 Future Improvements
 	•	Use larger and real-world datasets

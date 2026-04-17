@@ -38,6 +38,28 @@ Results
 	•	Model demonstrates strong capability in time-series forecasting
 	•	Useful for real-world telecom applications
 
+Output
+
+5G Traffic Prediction
+<p align="center">
+  <img src="images/prediction.png" width="650"/>
+</p>
+
+Anomaly Detection
+<p align="center">
+  <img src="images/anomaly.png" width="650"/>
+</p>
+
+Traffic Distribution
+<p align="center">
+  <img src="images/distribution.png" width="650"/>
+</p>
+
+Traffic Heatmap
+<p align="center">
+  <img src="images/heatmap.png" width="650"/>
+</p>
+
 Real-World Use Case
 
 - Helps telecom providers predict network congestion  

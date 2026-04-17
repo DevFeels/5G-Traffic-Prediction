@@ -41,24 +41,16 @@ Results
 Output
 
 5G Traffic Prediction
-<p align="center">
-  <img src="images/prediction.png" width="650"/>
-</p>
+![Prediction](5G%20Traffic%20Prediction.png)
 
 Anomaly Detection
-<p align="center">
-  <img src="images/anomaly.png" width="650"/>
-</p>
+![Anomaly](Anomaly%20Detection.png)
 
 Traffic Distribution
-<p align="center">
-  <img src="images/distribution.png" width="650"/>
-</p>
+![Distribution](Traffic%20Distribution%20by%20Category.png)
 
 Traffic Heatmap
-<p align="center">
-  <img src="images/heatmap.png" width="650"/>
-</p>
+![Heatmap](Traffic%20Heatmap.png)
 
 Real-World Use Case
 

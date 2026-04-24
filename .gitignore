@@ -1,0 +1,13 @@
+*.csv
+*.zip
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+kaggle.json
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
